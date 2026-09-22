@@ -1,0 +1,12 @@
+python-telegram-bot>=20.0
+mysql-connector-python
+pandas
+requests
+schedule
+python-dotenv
+tenacity
+Pillow
+num2fawords
+jdatetime
+arabic-reshaper
+python-bidi
